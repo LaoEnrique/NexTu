@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">distanceChats</string>
+
+    <string name="button">Establecer</string>
+
+    <string-array name="spinner">
+        <item>KM</item>
+        <item>M</item>
+    </string-array>
+
+    <string name="titulo">Disponibles a</string>
+
+</resources>
